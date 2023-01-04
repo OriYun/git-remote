@@ -1,3 +1,2 @@
 changes from local
 changes from remote
-another changes
